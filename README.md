@@ -11,3 +11,20 @@
   - [정현민](https://github.com/kalgory/201120_Ground-Picking_JHM)
   - [김동민](https://github.com/kalgory/201120_Ground-Picking_KDM)
   - [정은호](https://github.com/kalgory/201120_Ground-Picking_JEH)
+  - [최원영](https://github.com/kalgory/201120_Ground-Picking_CWY)
+  
+
+- #3 2020.11.24 - [Way To School](https://programmers.co.kr/learn/courses/30/lessons/42898)
+
+  - [정현민](https://github.com/kalgory/201124_Way-To-School_JHM)
+  - [김동민](https://github.com/kalgory/201126_Way-To-School_KDM)
+  - [정은호](https://github.com/kalgory/201124_Way-To-School_JEH)
+  - [최원영](https://github.com/kalgory/201124_Way-To-School_CWY)
+
+
+- #4 2020.12.20 - [Target Number](https://programmers.co.kr/learn/courses/30/lessons/43165)
+
+  - [정현민](https://github.com/kalgory/201220_Target-Number_JHM)
+  - [김동민](https://github.com/kalgory/201220_Target-Number_KDM)
+  - [정은호](https://github.com/kalgory/201220_Target-Number_JEH)
+  - [최원영](https://github.com/kalgory/201220_Target-Number_CWY)
