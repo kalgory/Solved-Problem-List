@@ -19,7 +19,7 @@
   - [정현민](https://github.com/kalgory/201124_Way-To-School_JHM)
   - [김동민](https://github.com/kalgory/201126_Way-To-School_KDM)
   - [정은호](https://github.com/kalgory/201124_Way-To-School_JEH)
-  - [최원영](https://github.com/kalgory/201124_Way-To-School_CWY)
+  - [최원영](https://github.com/kalgory/201126_Way-To-School_CWY)
 
 
 - #4 2020.12.20 - [Target Number](https://programmers.co.kr/learn/courses/30/lessons/43165)
