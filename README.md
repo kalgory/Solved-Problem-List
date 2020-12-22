@@ -18,7 +18,6 @@
 
   - [정현민](https://github.com/kalgory/201124_Way-To-School_JHM)
   - [김동민](https://github.com/kalgory/201126_Way-To-School_KDM)
-  - [정은호](https://github.com/kalgory/201124_Way-To-School_JEH)
   - [최원영](https://github.com/kalgory/201126_Way-To-School_CWY)
 
 
@@ -26,5 +25,17 @@
 
   - [정현민](https://github.com/kalgory/201220_Target-Number_JHM)
   - [김동민](https://github.com/kalgory/201220_Target-Number_KDM)
-  - [정은호](https://github.com/kalgory/201220_Target-Number_JEH)
   - [최원영](https://github.com/kalgory/201220_Target-Number_CWY)
+  
+- #5 2020.12.29 - [N Expression](https://programmers.co.kr/learn/courses/30/lessons/42895)
+
+  - [정현민](https://github.com/kalgory/201229_N-Expression_JHM)
+  - [김동민](https://github.com/kalgory/201229_N-Expression_KDM)
+  - [최원영](https://github.com/kalgory/201229_N-Expression_CWY)
+
+
+- #6 2020.12.29 - [Integer Triangle](https://programmers.co.kr/learn/courses/30/lessons/43105)
+
+  - [정현민](https://github.com/kalgory/201229_Integer-Triangle_JHM)
+  - [김동민](https://github.com/kalgory/201229_Integer-Triangle_KDM)
+  - [최원영](https://github.com/kalgory/201229_Integer-Triangle_CWY)
