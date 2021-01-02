@@ -39,3 +39,11 @@
   - [정현민](https://github.com/kalgory/201229_Integer-Triangle_JHM)
   - [김동민](https://github.com/kalgory/201229_Integer-Triangle_KDM)
   - [최원영](https://github.com/kalgory/201229_Integer-Triangle_CWY)
+  
+  
+- #7 2021.01.05 - [Booster](https://www.acmicpc.net/problem/15955)
+
+	-  [정현민](https://github.com/kalgory/201229_Integer-Triangle_JHM)
+	-  [김동민](https://github.com/kalgory/201229_Integer-Triangle_KDM)
+	-  [최원영](https://github.com/kalgory/201229_Integer-Triangle_CWY)
+  
