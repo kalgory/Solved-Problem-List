@@ -43,7 +43,19 @@
   
 - #7 2021.01.05 - [Booster](https://www.acmicpc.net/problem/15955)
 
-	-  [정현민](https://github.com/kalgory/201229_Integer-Triangle_JHM)
-	-  [김동민](https://github.com/kalgory/201229_Integer-Triangle_KDM)
-	-  [최원영](https://github.com/kalgory/201229_Integer-Triangle_CWY)
+  -  [정현민](https://github.com/kalgory/210105_Booster_JHM)
+  -  [김동민](https://github.com/kalgory/210105_Booster_KDM)
+  -  [최원영](https://github.com/kalgory/210105_Booster_CWY)
+  
+- #8 2021.01.19 - [2048](https://www.acmicpc.net/problem/12100)
+
+  -  [정현민](https://github.com/kalgory/211219_2048_JHM)
+  -  [김동민](https://github.com/kalgory/211219_2048_KDM)
+  -  [최원영](https://github.com/kalgory/211219_2048_CWY)
+  
+- #9 2021.01.19 - [Island Connect](https://programmers.co.kr/learn/courses/30/lessons/42861)
+
+  -  [정현민](https://github.com/kalgory/211219_Island-Connect_JHM)
+  -  [김동민](https://github.com/kalgory/211219_Island-Connect_KDM)
+  -  [최원영](https://github.com/kalgory/211219_Island-Connect_CWY)
   
