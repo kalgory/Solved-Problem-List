@@ -59,3 +59,9 @@
   -  [김동민](https://github.com/kalgory/210119_Island-Connect_KDM)
   -  [최원영](https://github.com/kalgory/210119_Island-Connect_CWY)
   
+- #10 2021.03.03 - [Printer Queue](https://www.acmicpc.net/problem/1966)
+
+  -  [정현민](https://github.com/kalgory/210303_Printer-Queue_JHM)
+  -  [김동민](https://github.com/kalgory/210303_Printer-Queue_KDM)
+  -  [최원영](https://github.com/kalgory/210303_Printer-Queue_CWY)
+  -  [이호성](https://github.com/kalgory/210303_Printer-Queue_LHS)
