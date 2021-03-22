@@ -97,7 +97,7 @@
 
 - #14 2021.03.22 - [Rank Search](https://programmers.co.kr/learn/courses/30/lessons/72412) (출처: 프로그래머스)
 
-  -  [정현민](https://github.com/kalgory/210322_Menu-Research_JHM)
-  -  [김동민](https://github.com/kalgory/210322_Menu-Research_KDM)
-  -  [최원영](https://github.com/kalgory/210322_Menu-Research_CWY)
-  -  [이호성](https://github.com/kalgory/210322_Menu-Research_LHS)
+  -  [정현민](https://github.com/kalgory/210322_Rank-Search_JHM)
+  -  [김동민](https://github.com/kalgory/210322_Rank-Search_KDM)
+  -  [최원영](https://github.com/kalgory/210322_Rank-Search_CWY)
+  -  [이호성](https://github.com/kalgory/210322_Rank-Search_LHS)
