@@ -74,7 +74,7 @@
   -  [최원영](https://github.com/kalgory/210310_Stock-Price_CWY)
   -  [이호성](https://github.com/kalgory/210310_Stock-Price_LHS)
 
-- #11 2021.03.15 - [Menu Renuwal](https://programmers.co.kr/learn/courses/30/lessons/72411) (출처: 프로그래머스)
+- #11 2021.03.15 - [Menu Renewal](https://programmers.co.kr/learn/courses/30/lessons/72411) (출처: 프로그래머스)
 
   -  [정현민](https://github.com/kalgory/210315_Menu-Renewal_JHM)
   -  [김동민](https://github.com/kalgory/210315_Menu-Renewal_KDM)
@@ -83,10 +83,8 @@
 
 - #12 2021.03.22 - [Diet](https://www.codeground.org) (출처: SCPC)
 
-  -  [정현민](https://github.com/kalgory/210322_Diet_JHM)
   -  [김동민](https://github.com/kalgory/210322_Diet_KDM)
   -  [최원영](https://github.com/kalgory/210322_Diet_CWY)
-  -  [이호성](https://github.com/kalgory/210322_Diet_LHS)
 
 - #13 2021.03.22 - [Card Game](https://www.codeground.org) (출처: SCPC)
 
