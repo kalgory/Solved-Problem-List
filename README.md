@@ -99,3 +99,17 @@
   -  [김동민](https://github.com/kalgory/210322_Rank-Search_KDM)
   -  [최원영](https://github.com/kalgory/210322_Rank-Search_CWY)
   -  [이호성](https://github.com/kalgory/210322_Rank-Search_LHS)
+
+- #15 2021.03.29 - [Recommend New ID](https://programmers.co.kr/learn/courses/30/lessons/72410) (출처: 프로그래머스)
+
+  -  [정현민](https://github.com/kalgory/210322_Rank-Search_JHM)
+  -  [김동민](https://github.com/kalgory/210322_Rank-Search_KDM)
+  -  [최원영](https://github.com/kalgory/210322_Rank-Search_CWY)
+  -  [이호성](https://github.com/kalgory/210322_Rank-Search_LHS)
+
+- #16 2021.03.29 - [Taxi Fare](https://programmers.co.kr/learn/courses/30/lessons/72413) (출처: 프로그래머스)
+
+  -  [정현민](https://github.com/kalgory/210322_Rank-Search_JHM)
+  -  [김동민](https://github.com/kalgory/210322_Rank-Search_KDM)
+  -  [최원영](https://github.com/kalgory/210322_Rank-Search_CWY)
+  -  [이호성](https://github.com/kalgory/210322_Rank-Search_LHS)
