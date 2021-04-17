@@ -88,10 +88,8 @@
 
 - #13 2021.03.22 - [Card Game](https://www.codeground.org) (출처: SCPC)
 
-  -  [정현민](https://github.com/kalgory/210322_Card-Game_JHM)
   -  [김동민](https://github.com/kalgory/210322_Card-Game_KDM)
   -  [최원영](https://github.com/kalgory/210322_Card-Game_CWY)
-  -  [이호성](https://github.com/kalgory/210322_Card-Game_LHS)
 
 - #14 2021.03.22 - [Rank Search](https://programmers.co.kr/learn/courses/30/lessons/72412) (출처: 프로그래머스)
 
