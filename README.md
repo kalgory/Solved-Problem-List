@@ -123,3 +123,15 @@
   -  [김동민](https://github.com/kalgory/210405_Rank_KDM)
   -  [최원영](https://github.com/kalgory/210405_Rank_CWY)
   -  [이호성](https://github.com/kalgory/210405_Rank_LHS)
+
+- #19 2021.04.26 - [Word-Transformation](https://programmers.co.kr/learn/courses/30/lessons/43163) (출처: 프로그래머스)
+  -  [정현민](https://github.com/kalgory/210426_Word-Transformation_JHM)
+  -  [김동민](https://github.com/kalgory/210426_Word-Transformation_KDM)
+  -  [최원영](https://github.com/kalgory/210426_Word-Transformation_CWY)
+  -  [이호성](https://github.com/kalgory/210426_Word-Transformation_LHS)
+
+- #20 2021.04.26 - [Network](https://programmers.co.kr/learn/courses/30/lessons/43162) (출처: 프로그래머스)
+  -  [정현민](https://github.com/kalgory/210426_Network_JHM)
+  -  [김동민](https://github.com/kalgory/210426_Network_KDM)
+  -  [최원영](https://github.com/kalgory/210426_Network_CWY)
+  -  [이호성](https://github.com/kalgory/210426_Network_LHS)
