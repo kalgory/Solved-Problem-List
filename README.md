@@ -135,3 +135,10 @@
   -  [김동민](https://github.com/kalgory/210503_Network_KDM)
   -  [최원영](https://github.com/kalgory/210503_Network_CWY)
   -  [이호성](https://github.com/kalgory/210503_Network_LHS)
+
+ 
+- #21 2021.05.17 - [Same Differences](https://codeforces.com/problemset/problem/1520/D) (출처: Codeforces)
+  -  [정현민](https://github.com/kalgory/210517_Same-Differences_JHM)
+  -  [김동민](https://github.com/kalgory/210517_Same-Differences_KDM)
+  -  [최원영](https://github.com/kalgory/210517_Same-Differences_CWY)
+  -  [이호성](https://github.com/kalgory/210517_Same-Differences_LHS)
